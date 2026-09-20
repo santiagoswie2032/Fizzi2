@@ -1,0 +1,8 @@
+{
+  "repositoryName": "focused-pretzel-7388ay",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./src/slices"],
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator",
+  "apiEndpoint": "",
+  "starter": "course-fizzi-next"
+}
