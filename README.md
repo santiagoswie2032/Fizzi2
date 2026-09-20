@@ -1,6 +1,6 @@
 # Fizzi
 
-An interactive 3D landing page and e-commerce experience for a fictional soda brand, built with Next.js (App Router), Three.js / React Three Fiber, GSAP, and Prismic CMS.
+HI chat :D, This is an interactive 3D landing page and e-commerce experience for a fictional soda brand, built with Next.js (App Router), Three.js / React Three Fiber, GSAP, and Prismic CMS.
 
 ---
 
@@ -47,38 +47,3 @@ An interactive 3D landing page and e-commerce experience for a fictional soda br
 * **Purpose**: Utility styling and layout.
 * **Where it's used**:
   * Responsive layout grids, typography, custom brand color tokens, and overlay positioning over the 3D canvas.
-
----
-
-## Getting Started
-
-### Prerequisites
-* Node.js 18.x or 20.x
-* npm
-
-### Installation
-```bash
-npm install
-```
-
-### Running Locally
-To launch both the Next.js dev server and Slice Machine UI concurrently:
-```bash
-npm run dev
-```
-
-* **Next.js App**: `http://localhost:3000`
-* **Slice Machine UI**: `http://localhost:9999`
-* **Slice Simulator**: `http://localhost:3000/slice-simulator`
-
-To run them separately:
-```bash
-npm run next:dev     # Next.js development server
-npm run slicemachine # Slice Machine interface
-```
-
-### Production Build
-```bash
-npm run build
-npm start
-```
